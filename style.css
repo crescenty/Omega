@@ -4,7 +4,7 @@
 	}
 	html,
 	body {
-		background-color: #F0F1F5;
+		background-color: #FFFFFF;
 		background-repeat: repeat;
 		height: 100% !important;
 		padding: 0;
@@ -14,11 +14,11 @@
 	}
 	#container {
 		/* CONTAINER */
-		border: 5px solid #F8D9D5;
+		border: 5px solid #FFFFFF;
 		box-shadow: 0px 1px 2px rgba(0,0,0,.2);
 		height: 95%;
 		width: 100%;
-		padding-top: 52px;
+		padding-top: 82px;
 		position: absolute;
 		top: 0px;
 		right: 0px;
@@ -37,17 +37,17 @@
 	input {
 		background: #FFFFFF;
 		border: none;
-		color: #FFF;
+		color: #FFFFFF;
 		font-size: 14pt;
 		font-stretch: condensed;
-		padding: 13px 0px;
+		padding: 0px -10px;
 		width: 100%;
 		text-align: center;
 		transition: .3s ease-in-out !important;
 	}
 	.buttons {
 		/* SWITCH BUTTONS CONTAINER */
-		background: #25373D;
+		background: #FFFFFF;
 		height: 52px;
 		width: 85px;
 		position: absolute;
@@ -92,7 +92,7 @@
 	.user {
 		/* PROFILE COLUMN LINK BOX */
 		background: transparent;
-		color: #E7E7E7;
+		color: #FFFFFF;
 		font-size: 2em !important;
 		font-weight: 900;
 		line-height: 60px;
@@ -117,7 +117,7 @@
 		}
 	}
 	.user a {
-		color: #EBEBEB;
+		color: #FFFFFF;
 		text-decoration: none;
 		transition: all .3s;
 	}
