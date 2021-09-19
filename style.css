@@ -35,7 +35,7 @@
 		text-align: center !important;
 	}
 	input {
-		background: #25373D;
+		background: #FFFFFF;
 		border: none;
 		color: #FFF;
 		font-size: 14pt;
@@ -65,17 +65,17 @@
 		margin-right: 8px;
 	}
 	#first_btn {
-		background: #F8D9D5;
+		background: #FFFFFF;
 	}
 	#second_btn {
-		background: #D33257;
+		background: #FFFFFF;
 	}
 	#third_btn {
-		background: #EB9532;
+		background: #FFFFFF;
 	}
 	.profile {
 		/* PROFILE COLUMN */
-		background: #282830;
+		background: #FFFFFF;
 		height: 100%;
 		width: 290px;
 		overflow: hidden;
